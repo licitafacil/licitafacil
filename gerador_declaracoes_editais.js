@@ -1,0 +1,1 @@
+// Função que gera as declarações com base no conteúdo do edital

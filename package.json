@@ -1,7 +1,8 @@
 {
   "name": "licitafacil",
   "version": "1.0.0",
-  "private": true,
+  "description": "Sistema LicitaFácil para geração de documentos licitatórios automáticos",
+  "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,6 +12,6 @@
     "next": "13.4.12",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "pdfjs-dist": "^3.4.120"
+    "jspdf": "^2.5.1"
   }
 }

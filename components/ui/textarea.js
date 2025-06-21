@@ -1,0 +1,1 @@
+// área de texto para edital
